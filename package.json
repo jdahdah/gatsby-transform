@@ -15,8 +15,13 @@
     "clean": "gatsby clean"
   },
   "dependencies": {
-    "gatsby": "^4.5.4",
-    "react": "^17.0.1",
-    "react-dom": "^17.0.1"
+    "axios": "^0.25.0",
+    "dangerously-set-html-content": "^1.0.9",
+    "date-fns": "^2.28.0",
+    "gatsby": "^4.6.0",
+    "gatsby-source-filesystem": "^4.6.0",
+    "gatsby-source-remote-file": "^0.5.0",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
   }
 }
